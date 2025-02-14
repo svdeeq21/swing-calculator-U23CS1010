@@ -1,4 +1,4 @@
-# Swing Calculator Application
+mm# Swing Calculator Application
 
 A Simple java calculator application using java **Swing**, GUI toolkit for java. Allowing users perform basic arithemetic operations like addition, subtraction, multiplication, division, also includes a clear button, delete button and an equal button for evaluating expressions
 
@@ -71,7 +71,7 @@ java App.java
 
 ## Screenshot
 
-![Calculator-Picture](./images/calculator-img.png)
+![Calculator-Picture](git-pic.png)
 
 ## COMPUTER SCIENCE GROUP 2 CONTRIBUTORS
 
