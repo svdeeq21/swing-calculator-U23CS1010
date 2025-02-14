@@ -46,13 +46,13 @@ java --version
 1. Clone this Repo or Download it as a Zip File (Using Github Interface)
 
 ```bash
-git clone https://github.com/svdeeq21/Swing-Calculator-U23CS1010
+git clone https://github.com/svdeeq21/swing-calculator-U23CS1010
 ```
 
 2. Navigate to project folder
 
 ```bash
-cd Swing-Calculator-U23CS1010
+cd swing-calculator-U23CS1010
 ```
 
 3. Complie the java file
