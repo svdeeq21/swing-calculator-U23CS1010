@@ -46,25 +46,25 @@ java --version
 1. Clone this Repo or Download it as a Zip File (Using Github Interface)
 
 ```bash
-git clone https://github.com/iamRed-One/Swing-Calculator-U23CS1019
+git clone https://github.com/svdeeq21/Swing-Calculator-U23CS1010
 ```
 
 2. Navigate to project folder
 
 ```bash
-cd Swing-Calculator-U23CS1019
+cd Swing-Calculator-U23CS1010
 ```
 
 3. Complie the java file
 
 ```bash
-javac Calculator.java
+javac App.java
 ```
 
 4.  Run the java File
 
 ```bash
-java Calculator.java
+java App.java
 ```
 
 5. After Running an interface will popup and it should like the picture below 👇👇
